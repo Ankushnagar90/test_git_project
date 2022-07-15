@@ -21,3 +21,6 @@ urlpatterns = [
     path('', include('page.urls')),
     path('admin/', admin.site.urls),
 ]
+
+#changes on urls.
+
