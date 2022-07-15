@@ -3,6 +3,7 @@
 import os
 import sys
 
+#change on manage
 
 def main():
     """Run administrative tasks."""
